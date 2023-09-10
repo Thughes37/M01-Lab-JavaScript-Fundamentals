@@ -1,7 +1,7 @@
 // Your solution goes here
 
 function playGuessingGame(numToGuess, totalGuesses = 10){
-  let promtpText = "Enter a number between 1 and 100"
+  let promtpText = "Enter a number between 1 and 100";
 
 //this section will be for the loop. The pre-code I give you will check to see if you will check to see if a user does not enter anything
 //or if a user types in something that is not a number
@@ -42,7 +42,8 @@ else {
 }
 
 //TODO: before closing the function return 0
-
+turn 0;
+  
 }
 
-turn 0;
+
